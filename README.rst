@@ -2,7 +2,7 @@
 **Total Annihilation RTS Guide**
 =======================================
 
-.. figure:: docs/source/tarts_cover_pdf_art.png.png
+.. figure:: docs/source/tarts_cover_pdf_art.png
 
 Contact
 -------
