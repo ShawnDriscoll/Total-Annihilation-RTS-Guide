@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# diceroll documentation build configuration file, created by
-# sphinx-quickstart on Sat Sep 30 08:31:05 2017.
+# Total Annihilation RTS Guide documentation build configuration file.
 #
 # This file is execfile()d with the current directory set to its containing dir.
 #
@@ -154,7 +153,7 @@ html_copy_source = False
 #html_file_suffix = ''
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'dicerolldoc'
+htmlhelp_basename = 'tartsguidedoc'
 
 
 # Options for LaTeX output
