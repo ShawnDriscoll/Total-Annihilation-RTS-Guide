@@ -1,7 +1,7 @@
 **What is this Total Annihilation RTS game all about?**
 =======================================================
 
-.. figure:: tacover.jpg
+.. figure:: tacover.png
 
 What began as a conflict over the transfer of consciousness from flesh to machines escalated into a war which has decimated a million worlds. The Core and the Arm have all but exhausted the resources of a galaxy in their struggle for domination.  Both sides now crippled beyond repair.  The remnants of their armies continue to battle on ravaged planets.  Their hatred fueled by over four thousand years of total war.  This is a fight to the death.  For each side, the only acceptable outcome is the complete and total annihilation of the other...
 
@@ -11,7 +11,7 @@ It is recognized as one of the best PC and Mac games of all time (as well as the
 
 Well, part of what makes Total Annihilation amazing as well as challenging to play is in how its game engine handles terrain.  For starters, the terrain is 3D.  This means that hills and mountains have a real height to them.  The game maps are not just pretty painted 2D battlefields.  These areas can actually halt combat units from moving further that don't have climbing abilities, so they'll have to travel around or shoot over them to attack their enemy. *Bryce* was one of the first 3D terrain programs used in the '90s for creating many of the game's maps.  Newer programs like *Carrara* have been added to the growing list of programs being used now.  However, *Vue* is able to generate the best detailed maps for the game.
 
-.. figure:: carrara4_ta_map.jpg
+.. figure:: carrara4_ta_map.png
 
 A TA map made in Carrara.
 
@@ -19,7 +19,7 @@ The units in the game are rendered (in real-time) in 3D, using DirectX 5.  Vehic
 
 Oceans are also treated as 3D.  With the Core Contingency expansion pack installed, Submarines can be used to build secret underwater bases on the ocean floor, as long as the enemy isn't using sonar to discover it and sends in Attack Subs, Depth Charges, and Torpedo Bombers to ruin things.
 
-.. figure:: tacontour.gif
+.. figure:: tacontour.png
 
 Note the contour lines that define the 3D terrain.
 
@@ -29,7 +29,7 @@ Another nice thing about the game is its graphical user interface.  It is very i
 
 Playing against human players in Total Annihilation is one of the best features in the game.  
 
-.. figure:: taconnections.gif
+.. figure:: taconnections.png
 
 TA has several ways of playing networked games.
 
@@ -67,7 +67,7 @@ And also no on immense battles.  We're talking huge, giant battlefields up to 63
 
 True and true.  There isn't much of a story other than two armies fighting each other for control over an entire galaxy.  Basically, there are two armies in Total Annihilation, the Core and the Arm.  Years from now, humans that have been used to cloning for centuries, are faced with the idea of upgrading their fleshy bodies to robotic machines with far more memory than their cloned brains can hold.  Some clones will fight against this and rebel.  They'll spread themselves out along the spiral arm of the galaxy so they can better plan how to wage war against a metallic empire centered at the galactic core.
 
-.. figure:: vue_commander_scene_7.jpg
+.. figure:: vue_commander_scene_7.png
 
 The Arm Commander unit.
 
