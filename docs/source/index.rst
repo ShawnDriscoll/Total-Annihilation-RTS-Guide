@@ -1,4 +1,4 @@
-.. figure:: tarts_cover_pdf_art.png
+.. figure:: tarts_cover_art.png
 
 **Total Annihilation RTS Guide**
 ================================
