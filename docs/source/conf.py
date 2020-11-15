@@ -133,10 +133,10 @@ html_sidebars = {}
 #html_additional_pages = {}
 
 # If false, no module index is generated.
-html_use_modindex = True
+html_use_modindex = False
 
 # If false, no index is generated.
-html_use_index = True
+html_use_index = False
 
 # If true, the index is split into individual pages for each letter.
 html_split_index = False
@@ -175,8 +175,8 @@ latex_documents = [
 
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
-latex_logo = None
-#latex_logo = 'tarts_cover_pdf_art.png'
+#latex_logo = None
+latex_logo = 'tarts_cover_pdf_art.png'
 
 # For "manual" documents, if this is true, then toplevel headings are parts,
 # not chapters.
