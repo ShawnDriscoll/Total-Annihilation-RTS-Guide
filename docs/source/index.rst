@@ -14,9 +14,3 @@ What began as a conflict over the transfer of consciousness from flesh to machin
 
    info
    about_the_author
-
-Indices and tables
-------------------
-
-* :ref:`genindex`
-* :ref:`search`
