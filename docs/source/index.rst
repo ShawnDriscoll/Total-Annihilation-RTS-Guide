@@ -1,4 +1,4 @@
-.. figure:: tarts_cover_art.png
+.. figure:: tarts_book_cover_art.png
 
 **Total Annihilation RTS Guide**
 ================================
@@ -14,4 +14,5 @@ What began as a conflict over the transfer of consciousness from flesh to machin
 
    info
    awards
+   forsale
    about_the_author

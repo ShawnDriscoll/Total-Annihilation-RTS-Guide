@@ -3,7 +3,7 @@
     :target: http://tartsguide.readthedocs.io/en/latest/?badge=latest
     :alt: Doc Status
 
-.. figure:: docs/source/tarts_cover_art.png
+.. figure:: docs/source/tarts_book_cover_art.png
 
 **Total Annihilation RTS Guide**
 ================================
