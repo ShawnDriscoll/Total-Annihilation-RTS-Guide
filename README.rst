@@ -1,8 +1,4 @@
 
-.. image:: https://readthedocs.org/projects/tartsguide/badge/?version=latest
-    :target: http://tartsguide.readthedocs.io/en/latest/?badge=latest
-    :alt: Doc Status
-
 .. figure:: docs/source/tarts_book_cover_art.png
 
 **Total Annihilation RTS Guide**
@@ -14,7 +10,6 @@ Read the **Total Annihilation RTS Guide** at http://tartsguide.readthedocs.io
 
 Download the PDF from https://readthedocs.org/projects/tartsguide/downloads/pdf/latest
 
-or the EPUB from https://readthedocs.org/projects/tartsguide/downloads/epub/latest
 
 Contact
 -------
