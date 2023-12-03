@@ -89,4 +89,4 @@ The same can be said about trying to watch a recorded game hosted on TADRS at *t
 
 Smart players and true fans of the game have realized all along that the game should be left alone and played just as Cavedog's game designers intended.
 
-Anyway.  Happy 24th Anniversary, Total Annihilation!
+Anyway.  Happy 27th Anniversary, Total Annihilation!
